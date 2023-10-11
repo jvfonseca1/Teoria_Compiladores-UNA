@@ -1,0 +1,2 @@
+Comprimento: 5
+String Invertida: etseT
