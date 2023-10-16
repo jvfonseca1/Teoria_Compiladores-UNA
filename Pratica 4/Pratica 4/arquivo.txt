@@ -1,2 +1,1 @@
-Comprimento: 5
-String Invertida: etseT
+Teste de string

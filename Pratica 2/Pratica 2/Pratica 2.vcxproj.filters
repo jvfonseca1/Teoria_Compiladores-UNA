@@ -18,13 +18,5 @@
     <ClCompile Include="main.c">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="myfunctions.c">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="myfunctions.h">
-      <Filter>Arquivos de Recurso</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
